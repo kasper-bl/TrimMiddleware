@@ -1,0 +1,14 @@
+{
+    "name": "kasper/trim-middleware",
+    "description": "asasassdsda",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kasper-bl",
+            "email": "momopoki75@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
